@@ -15,4 +15,4 @@ steps:
       - '--entry-point=main'
       - '--trigger-http'
       - '--allow-unauthenticated'
-      - '--set-env-vars=ASTEROIDS_BUCKET=astreoids-bucket,PROJECT_ID=asteroids-487111,DATASET_ID=asteroids,TABLE_ID=asteroids-table'
+      - '--set-env-vars=ASTEROIDS_BUCKET=astreoids-bucket,PROJECT_ID=asteroids-487111,DATASET_ID=asteroids,TABLE_ID=neows_asteroids'
